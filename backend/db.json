@@ -1,29 +1,9 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Arthur",
-      "email": "emaildoarhtur@gmail.com"
-    },
-    {
-      "id": 2,
-      "nama": "Maria Julia",
-      "email": "mjsd@gmail.com"
-    },
-    {
-      "name": "Ana",
-      "email": "ana321@gmail.com",
-      "id": 3
-    },
-    {
-      "name": "Felipe",
-      "email": "a",
-      "id": 4
-    },
-    {
-      "name": "ada",
-      "email": "dada",
-      "id": 5
+      "name": "User Test",
+      "email": "usertest@email.com",
+      "id": 1
     }
   ]
 }

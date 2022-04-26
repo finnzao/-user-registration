@@ -1,11 +1,11 @@
-header.header{
+header.header {
     background-color: white;
     padding: 0px 15px;
-    overflow: hidden;
+    overflow: visible;
     white-space: nowrap;
     box-shadow: var(--shadow);
 }
 
-header.header{
-    font-size: 1.8em ;
+header.header {
+    font-size: 1.8em;
 }

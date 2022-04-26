@@ -1,14 +1,23 @@
-aside.logo{
+aside.logo {
     background-color: var(--bg--dark);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-aside.logo img{
+aside.logo svg {
+    color: white;
     padding: 0px 15px;
     width: 100%;
     height: 90px;
-    
+}
 
+aside.logo svg:hover {
+    color: rgb(204, 204, 204)
+}
+
+@media (max-width:576px) {
+    aside.logo svg {
+        width: 350px;
+    }
 }
