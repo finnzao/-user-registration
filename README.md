@@ -5,11 +5,11 @@ Reaction page with input date and features to add, delete ,edit . Stylized page 
 
 
 
-Dependencies:
+<h3>Dependencies:<h3/>
 <!--ts-->
-**axios
-*bootstrap
-*font-awesome
+* *axios*
+* *bootstrap*
+* *font-awesome*
 * *react*    
-*web-vitals*
+* *web-vitals*
 <!--ts-->
