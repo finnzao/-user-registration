@@ -8,7 +8,7 @@
 <h2>Dependencies:<h2/>
 <!--ts-->
 * axios <br>
-* bootstrap*<br>
+* bootstrap<br>
 * font-awesome<br>
 * react   <br>
 * web-vitals<br>
