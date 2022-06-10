@@ -10,6 +10,6 @@ Dependencies:
 **axios
 *bootstrap
 *font-awesome
-*react   
+* *react*    
 *web-vitals*
 <!--ts-->
