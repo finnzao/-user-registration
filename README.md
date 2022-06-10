@@ -7,9 +7,9 @@ Reaction page with input date and features to add, delete ,edit . Stylized page 
 
 <h3>Dependencies:<h3/>
 <!--ts-->
-* axios* <br>
-* *bootstrap*<br>
-* *font-awesome*<br>
-* *react*    <br>
-* *web-vitals*<br>
+* axios <br>
+* bootstrap*<br>
+* font-awesome<br>
+* react   <br>
+* web-vitals*<br>
 <!--ts-->
